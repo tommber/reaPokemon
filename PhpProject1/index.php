@@ -7,6 +7,7 @@
     <body>
         <?php
             echo 'Hello Pokemon!';
+            echo 'bugfix';
         ?>
     </body>
 </html>
